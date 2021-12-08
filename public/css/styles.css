@@ -1,0 +1,14 @@
+.Quotes{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.a{
+  align-content: center;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
